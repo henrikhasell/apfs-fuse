@@ -42,7 +42,7 @@ sudo apt install fuse libfuse3-dev bzip2 libbz2-dev cmake gcc-c++ git libattr1-d
 ```
 Example for Fedora/Redhat Linux:
 ```
-sudo yum install git g++ zlib-devel bzlib-devel bzip2-devel fuse3-devel
+sudo yum install git cmake g++ zlib-devel bzlib-devel bzip2-devel fuse3-devel
 ```
 Of course these commands depend on the Linux distribution.
 
